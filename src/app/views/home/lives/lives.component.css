@@ -1,0 +1,13 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .inativoLive {
+    opacity: 0.2;
+    
+  }
+  .inativoLive:hover{
+    opacity: 5.0;
+  } 
+  .mat-card-live{
+    margin: 10px;
+  }
